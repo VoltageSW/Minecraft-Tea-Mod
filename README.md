@@ -1,1 +1,1 @@
-# Minecraft-Tea-Plug-in
+# Minecraft-Tea-Mod
